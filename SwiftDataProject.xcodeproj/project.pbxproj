@@ -13,6 +13,7 @@
 		DE6F98DA2C6D3BA900573930 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE6F98D92C6D3BA900573930 /* Preview Assets.xcassets */; };
 		DE6F98E12C6D40AA00573930 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6F98E02C6D40AA00573930 /* User.swift */; };
 		DE6F98E32C6D422D00573930 /* EditUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6F98E22C6D422D00573930 /* EditUserView.swift */; };
+		DEE3C78A2C70E4A600C71CB7 /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE3C7892C70E4A600C71CB7 /* UsersView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		DE6F98D92C6D3BA900573930 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DE6F98E02C6D40AA00573930 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		DE6F98E22C6D422D00573930 /* EditUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditUserView.swift; sourceTree = "<group>"; };
+		DEE3C7892C70E4A600C71CB7 /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DE6F98E02C6D40AA00573930 /* User.swift */,
 				DE6F98D42C6D3BA800573930 /* ContentView.swift */,
 				DE6F98E22C6D422D00573930 /* EditUserView.swift */,
+				DEE3C7892C70E4A600C71CB7 /* UsersView.swift */,
 				DE6F98D62C6D3BA900573930 /* Assets.xcassets */,
 				DE6F98D82C6D3BA900573930 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEE3C78A2C70E4A600C71CB7 /* UsersView.swift in Sources */,
 				DE6F98D52C6D3BA800573930 /* ContentView.swift in Sources */,
 				DE6F98E32C6D422D00573930 /* EditUserView.swift in Sources */,
 				DE6F98D32C6D3BA800573930 /* SwiftDataProjectApp.swift in Sources */,
